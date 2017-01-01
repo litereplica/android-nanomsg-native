@@ -1,0 +1,4 @@
+[submodule "jni/nanomsg"]
+	path = jni/nanomsg
+	url = https://github.com/litereplica/nanomsg
+	branch = 0.8-android
